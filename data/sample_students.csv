@@ -1,0 +1,9 @@
+student_id,student_name,email,age,class
+ST001,John Doe,john@gmail.com,15,SS1
+ST002,Jane Smith,jane@gmail.com,16,SS2
+ST003,Peter James,peter@gmail.com,14,SS1
+ST004,Mary John,mary@gmail.com,15,SS2
+ST002,Jane Smith,jane@gmail.com,16,SS2
+ST006,David Paul,,17,SS3
+ST007,Sarah Adams,sarah@gmail.com,abc,SS1
+ST008,Michael Brown,michael@gmail.com,13,SS2
